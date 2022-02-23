@@ -5,4 +5,4 @@ A simple script for when your wordlist-dependent program crashes and you don't w
 This script creates a new wordlist, starting from the word of your choosing 
 
 
-### Usage: ./brokenWordlist.sh <i>originalWordlist</i> <i>lastKnownWord</i> <i>outputFile</i>
+### Usage: ./brokenWordlist.sh <b>originalWordlist</b> <i>lastKnownWord</i> <i>outputFile</i>
